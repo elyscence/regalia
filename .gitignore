@@ -1,1 +1,4 @@
 /target
+src/bk.rs
+logged_status_fail.txt
+logged_status_success.txt
